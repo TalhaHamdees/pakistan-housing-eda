@@ -4,7 +4,7 @@
 **Current Session:** 1 / 12
 **Dataset Downloaded:** ✅
 **Notebook Created:** ✅
-**GitHub Repo Created:** ❌
+**GitHub Repo Created:** ✅
 
 ---
 
