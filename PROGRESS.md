@@ -1,7 +1,7 @@
 # PROJECT PROGRESS TRACKER
 
 ## Overall Status: IN PROGRESS
-**Current Session:** 1 / 12
+**Current Session:** 2 / 12
 **Dataset Downloaded:** ✅
 **Notebook Created:** ✅
 **GitHub Repo Created:** ✅
@@ -13,7 +13,7 @@
 | # | Session | Status | Date | Notes |
 |---|---------|--------|------|-------|
 | 1 | Environment Setup & First Contact | ✅ Completed | 2026-02-27 | Env setup, notebook created, data loaded (pipe-delimited CSV), initial exploration complete |
-| 2 | Understanding Your Data Deeply | ⬜ Not Started | — | — |
+| 2 | Understanding Your Data Deeply | ✅ Completed | 2026-03-09 | Missing values (0 formal, hidden zeros in beds/baths/size), 32% duplicates found, dirty city name 2_FECHS, extreme outliers flagged, quality assessment written |
 | 3 | Cleaning — Column Names & Types | ⬜ Not Started | — | — |
 | 4 | Cleaning — Price Column | ⬜ Not Started | — | — |
 | 5 | Cleaning — Area & Feature Engineering | ⬜ Not Started | — | — |
